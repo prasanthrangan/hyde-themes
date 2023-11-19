@@ -1,3 +1,5 @@
+<div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br>
+
 > **Warning**
 >
 > Needs Hyprdots installed...
