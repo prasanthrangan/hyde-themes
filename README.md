@@ -6,5 +6,5 @@
 
 install this theme using themepatcher -
 ```
-./themepatcher.sh "Synth-Wave" "$HOME/Clone/Synth-Wave" "robbowen.synthwave-vscode~SynthWave '84"
+./themepatcher.sh "Synth-Wave" "https://github.com/prasanthrangan/hyprdots-mod" "robbowen.synthwave-vscode~SynthWave '84"
 ```
