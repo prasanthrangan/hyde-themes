@@ -26,8 +26,7 @@ https://github.com/prasanthrangan/hyprdots-mod/assets/106020512/0c7f12a8-11f2-4a
 [![Gruvbox-Retro](https://placehold.co/144x30/475437/B5CC97?text=Gruvbox-Retro&font=Oswald)](#-Gruvbox-Retro-by-T-crypt)
 </td></tr></table></div><br>
 
-These are the base themes used in [HyDE](https://github.com/prasanthrangan/hyprdots) by default, use themepatcher to install a specific theme from one of the branch   
-To create your own custom theme, please refer [theming wiki](https://github.com/prasanthrangan/hyprdots/wiki/Theming)
+These are the base themes used in [HyDE](https://github.com/prasanthrangan/hyprdots) by default, use themepatcher to install a specific theme from one of the branch.
 
 ```shell
 # themepatcher.sh "<Theme Name>" "<git branch url>"
@@ -36,7 +35,8 @@ To create your own custom theme, please refer [theming wiki](https://github.com/
 <br>
 
 > [!TIP]
-> You can install/browse/create/maintain/share additional themes using themepatcher.
+> To create your own custom theme, please refer [theming wiki](https://github.com/prasanthrangan/hyprdots/wiki/Theming).
+> You can also install/browse/create/maintain/share additional themes using themepatcher.
 > For more details please refer [themepatcher wiki](https://github.com/prasanthrangan/hyprdots/wiki/Theming#theme-patcher).
 
 <br><table><td><br>
