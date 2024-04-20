@@ -1,12 +1,10 @@
 ###### *<div align = right><sub>// design by t2</sub></div>*
-<div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br><br></div>
+<div align = center>
+<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png">
+<br><br></div>
 
 > [!IMPORTANT]
 > These are not standalone themes, needs [HyDE](https://github.com/prasanthrangan/hyprdots) installed...
-
-<br>
-
-https://github.com/prasanthrangan/hyprdots-mod/assets/106020512/0c7f12a8-11f2-4a16-890e-44f07a860636
 
 <br>
 
@@ -35,10 +33,19 @@ These are the base themes used in [HyDE](https://github.com/prasanthrangan/hyprd
 ```
 <br>
 
+https://github.com/prasanthrangan/hyprdots-mod/assets/106020512/0c7f12a8-11f2-4a16-890e-44f07a860636
+
+<br>
+
 > [!TIP]
 > To create your own custom theme, please refer [theming wiki](https://github.com/prasanthrangan/hyprdots/wiki/Theming).
 > You can also install/browse/create/maintain/share additional themes using themepatcher.
 > For more details please refer [themepatcher wiki](https://github.com/prasanthrangan/hyprdots/wiki/Theming#theme-patcher).
+
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
 
 <br><table><td><br>
 
@@ -86,3 +93,7 @@ These are the base themes used in [HyDE](https://github.com/prasanthrangan/hyprd
 
 </td></table>
 
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
