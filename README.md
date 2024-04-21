@@ -1,8 +1,6 @@
 ###### *<div align = right><sub>// design by t2</sub></div>*
 <div align = center>
-
-![hydethemes_banner](https://github.com/prasanthrangan/hyde-themes/assets/106020512/d541b8f9-c19d-4404-bb22-2b8bb13b3061)
-
+<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png">
 <br><br></div>
 
 > [!IMPORTANT]
