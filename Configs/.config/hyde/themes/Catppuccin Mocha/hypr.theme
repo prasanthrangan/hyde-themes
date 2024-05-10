@@ -3,6 +3,8 @@ exec = gsettings set org.gnome.desktop.interface icon-theme 'Tela-circle-dracula
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'Catppuccin-Mocha'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
+env = GTK_THEME,Catppuccin-Mocha
+
 general {
     gaps_in = 3
     gaps_out = 8
