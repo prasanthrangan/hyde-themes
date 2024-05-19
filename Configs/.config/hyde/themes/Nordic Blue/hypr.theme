@@ -40,5 +40,3 @@ decoration {
         xray = false
     }
 }
-
-blurls = waybar
