@@ -47,5 +47,3 @@ decoration {
         xray = false
     }
 }
-
-layerrule = blur,waybar
