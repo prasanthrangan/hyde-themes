@@ -1,3 +1,7 @@
+
+
+
+nasty things doing
 ###### *<div align = right><sub>// design by t2</sub></div>*
 <div align = center>
 <img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png">
@@ -7,7 +11,7 @@
 > These are not standalone themes, needs [HyDE](https://github.com/prasanthrangan/hyprdots) installed...
 
 <br>
-
+ksjdfhuygbsdtfinakygk
 # HyDE Themes
 
 <br><table><tr><td><div align="center">
